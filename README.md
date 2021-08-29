@@ -4,7 +4,7 @@
 The objective of this project was to analyze weather data captured by weather stations across the island of Oahu in order to determine the vaibility of a surf/ice cream shop.  Our data was sourced from hawaii.sqlite, and jupyter notebook was used to query the data.
 
 ## Results:
-Durning this stage of the analysis, the main focus was dtermining if temperature at various times of the year would allow for our client's new shop to be open year round.  By analyzing data from the month of [June](link) and the month of [December](link), we captured the extremes of the weather data (peak summer and peak winter).  The following list is some of the major points from this analysis:
+Durning this stage of the analysis, the main focus was dtermining if temperature at various times of the year would allow for our client's new shop to be open year round.  By analyzing data from the month of [June](https://github.com/kowiak89/Surfs_up/blob/main/june_temp_stats) and the month of [December](https://github.com/kowiak89/Surfs_up/blob/main/december_temp_stats), we captured the extremes of the weather data (peak summer and peak winter).  The following list is some of the major points from this analysis:
     
     * The weather stations captured about the same amount of measurements for each month (1700 for June and 1517 for December) indicating that we can comparing the data from these two months.
     * The mean temperatures were similar for both months, but there was more variability in the temperature in the month of December since it had a wider min-max gap.
